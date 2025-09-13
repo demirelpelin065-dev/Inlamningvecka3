@@ -1,1 +1,14 @@
+Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+Innan kursen hade jag redan en grundläggande förståelse för mjukvaruutveckling och kände till hur man strukturerar kod, arbetar med versionshantering och utvecklar applikationer. Det som kursen har gett mig är en tydligare helhetsbild av processen hur olika delar hänger ihop, vikten av agila arbetssätt och hur moderna verktyg kan effektivisera arbetet i team.
 
+Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+För mig betyder DevOps ett arbetssätt där utveckling och drift vävs samman för att skapa en snabbare, mer pålitlig och smidigare process från kod till färdig produkt. Om jag skulle förklara det för en kompis skulle jag säga: “Det handlar om att utvecklare och drift jobbar ihop istället för i silos, och att mycket automatiseras så att nya funktioner kan släppas snabbare och utan onödiga problem.”
+
+Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+Jag ser molnet som en självklar del av framtidens IT. Det spännande är flexibiliteten att kunna skala upp och ner resurser vid behov och att enkelt få tillgång till avancerade tjänster. Det som känns svårt är komplexiteten kring kostnader, säkerhet och att hålla koll på alla olika lösningar och plattformar som finns.
+
+Vad innebär det att vara en systemutvecklare i ett team?
+Att vara systemutvecklare i ett team innebär att bidra med sin tekniska kompetens, men också att samarbeta och kommunicera väl med andra. Rollen handlar inte bara om att skriva kod, utan också om att förstå helheten, hjälpa kollegor, dela kunskap och gemensamt driva projektet framåt.
+
+Vad har varit mest intressant under kursens tre veckor?
+Det mest intressanta har varit att se hur teori och praktik vävs samman från planering och metodik till verktyg som stödjer utveckling och drift. Att få en tydligare inblick i DevOps och molntjänster har särskilt varit givande eftersom det visar hur dagens arbetsliv fungerar i praktiken.
