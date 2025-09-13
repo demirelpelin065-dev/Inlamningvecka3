@@ -34,5 +34,5 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" \
                -X POST \
-               -d '{"username":"Elvis","content":"🎸 Build and tests passed successfully! I have done it again guys I am a genius!"}' \
+               -d '{"username":"Pelin","content":"Purr"}' \
                ${{ secrets.DIS_HOOK }}
